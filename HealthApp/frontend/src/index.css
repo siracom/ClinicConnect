@@ -1,0 +1,5 @@
+/* src/index.css */
+/* Tailwind users: keep your @tailwind directives below */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
